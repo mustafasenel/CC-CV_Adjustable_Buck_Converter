@@ -15,3 +15,7 @@ IC1, PS1'in feedback pinini tetiklemek için küçük şönt direnç voltajını
 ## PCB
 ![](https://github.com/mustafasenel/CC-CV_Adjustable_Buck_Converter/blob/main/PCB_print_color.jpg?raw=true)
 
+Kaynaklar
+
+https://www.pcbway.com/blog/technology/0_30V__0_7A_Adjustable_Switching_Power_Supply.html
+http://www.xlsemi.com/datasheet/xl4016%20datasheet.pdf
