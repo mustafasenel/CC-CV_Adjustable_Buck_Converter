@@ -1,5 +1,5 @@
 # CC-CV Adjustable Buck Converter
-![](https://github.com/mustafasenel/CC-CV_Adjustable_Buck_Converter/blob/main/rendered_images/1.jpeg?raw=true)
+![](https://github.com/mustafasenel/CC-CV_Adjustable_Buck_Converter/blob/main/rendered_images/1.jpeg?raw=true)![](https://github.com/mustafasenel/CC-CV_Adjustable_Buck_Converter/blob/main/rendered_images/5.jpeg?raw=true)
 ## Schematic
 ![](https://github.com/mustafasenel/CC-CV_Adjustable_Buck_Converter/blob/main/Schematic.jpg?raw=true)
 
