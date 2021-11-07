@@ -15,7 +15,7 @@ IC1, PS1'in feedback pinini tetiklemek için küçük şönt direnç voltajını
 
 ******************************************************
 
-PS1 is the XL4016 controller chip, and the buck converter is its main component. XL4016 has 8-36V input voltage, 1.25-32V adjustable output voltage and can give constant 12A current. D1 is the MBR20100 Schottky diode and L2 is a 47uH-12A inductor, which are the other key components of the buck converter. It is used to reduce C6,C7,C8,C9 input, C1,C2,C3,C4 output noises. M1 is a 15A fuse used for safety.
+PS1 is the XL4016 controller chip, and the buck converter is its main component. XL4016 has 8-36V input voltage, 1.25-32V adjustable output voltage and can give constant 12A current. D1 is the MBR20100 Schottky diode and L2 is a 47uH-12A inductor. It is used to reduce C6,C7,C8,C9 input, C1,C2,C3,C4 output noises. M1 is a 15A fuse used for safety.
 
 R2 is a 20K multi-turn potentiometer that provides feedback to the controller chip to adjust the output voltage. C10 is used to reduce noise in the feedback path. R9 is a 500R trimpot used to limit the output current. D3 led is used to see that the output current is limited. R4 is the shunt resistor with a value of 0.05R-5W.
 
